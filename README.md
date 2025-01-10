@@ -1,7 +1,7 @@
 # Encryption
 
 
-This Python script y is designed to encrypt and decrypt files using a simple Feistel cipher implementation. Here’s how it works and how you can use it:
+This Python script is designed to encrypt and decrypt files using a simple Feistel cipher implementation. Here’s how it works and how you can use it:
 
 
 
